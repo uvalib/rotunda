@@ -152,6 +152,11 @@
                     "group": "resources",
                     "name": "fonts",
                     "title": "Fonts"
+                },
+                {
+                    "group": "resources",
+                    "name": "templates",
+                    "title": "Templates"
                 }
             ]
         },
