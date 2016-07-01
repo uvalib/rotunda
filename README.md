@@ -1,2 +1,2 @@
-# rotundus
-UVA Library's Rotundus Design System https://uvalib.github.com/rotundus
+# Rotunda Design System
+The University of Virginia Library's Design System https://uvalib.github.com/rotunda
