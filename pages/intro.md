@@ -1,3 +1,3 @@
 # Introduction
 
-Add your intro copy in `./pages/intro.md` or alternatively if you do not want a intro (or any other) page set `content` in your `data.json` file to `null`.
+The Rotunda Design System reflects the patterns and components that support the foundation of University of Virginia Library products. These patterns and components provide a unified language and consistent look and feel when designing apps and products within the UVA Library ecosystem.
